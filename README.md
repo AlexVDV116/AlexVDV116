@@ -15,3 +15,9 @@ fun main() {
     println(alex.toString())
 }
 ```
+
+Hello, my name is Alex, I am 31 years of age.
+
+I like to code in: [HTML, CSS, JavaScript, PHP, Python, Kotlin]
+
+Process finished with exit code 0
