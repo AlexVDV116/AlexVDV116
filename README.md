@@ -28,7 +28,5 @@ fun main() {
 ```
 
 Hello, my name is Alex, I am 31 years of age.
-
-I like to code in: [HTML, CSS, JavaScript, PHP, Python, Kotlin]
-
-Process finished with exit code 0
+Some web technologies I am interested in are HTML, CSS, JavaScript, PHP, Python, Kotlin
+I am studying Information Technology at the Avans University of Applied Sciences, currently in year 2.
