@@ -1,3 +1,4 @@
+```
 /**
  * Meet Alex - Tech Enthusiast 🚀
  * -----------------------------------
@@ -32,8 +33,9 @@ fun main() {
     )
     println(alex.toString())
 }
+```
 
-👋 Hello, I'm Alex, a perpetual learner exploring the wonders of technology!
-🎂 I've orbited the sun 31 times and counting.
-💻 My cosmic interests include: HTML, CSS, JavaScript, PHP, Python, Kotlin, C#, .NET
+👋 Hello, I'm Alex, a perpetual learner exploring the wonders of technology!\
+🎂 I've orbited the sun 31 times and counting.\
+💻 My cosmic interests include: HTML, CSS, JavaScript, PHP, Python, Kotlin, C#, .NET\
 🎓 Currently pursuing a degree in Information Technology at Avans University of Applied Sciences, cruising through year 2.
