@@ -1,4 +1,9 @@
-```Kotlin
+/**
+ * Meet Alex - Tech Enthusiast 🚀
+ * -----------------------------------
+ * Hey there! I'm Alex, a passionate tech aficionado on a journey through the digital universe.
+ * Here's a glimpse into my world:
+ */
 class Person(
     private val firstName: String,
     private var age: Int,
@@ -8,25 +13,27 @@ class Person(
     private var schoolYear: Int
 ) {
     override fun toString(): String {
-        return "Hello, my name is $firstName, I am $age years of age.\n" +
-                "Some web technologies I am interested in are ${tech.joinToString()}\n" +
-                "I am studying $study at the $school, currently in year $schoolYear.\n"
+        return "👋 Hello, I'm $firstName, a perpetual learner exploring the wonders of technology!\n" +
+                "🎂 I've orbited the sun $age times and counting.\n" +
+                "💻 My cosmic interests include: ${tech.joinToString()}\n" +
+                "🎓 Currently pursuing a degree in $study at $school, cruising through year $schoolYear.\n"
     }
 }
 
 fun main() {
+    // Initializing profile
     val alex = Person(
         "Alex",
-        31,
-        mutableListOf("HTML", "CSS", "JavaScript", "PHP", "Python", "Kotlin"),
+        32,
+        mutableListOf("HTML", "CSS", "JavaScript", "PHP", "Python", "Kotlin", "C#", ".NET"),
         "Avans University of Applied Sciences",
         "Information Technology",
         2
     )
     println(alex.toString())
 }
-```
 
-Hello, my name is Alex, I am 31 years of age.
-Some web technologies I am interested in are HTML, CSS, JavaScript, PHP, Python, Kotlin
-I am studying Information Technology at the Avans University of Applied Sciences, currently in year 2.
+👋 Hello, I'm Alex, a perpetual learner exploring the wonders of technology!
+🎂 I've orbited the sun 31 times and counting.
+💻 My cosmic interests include: HTML, CSS, JavaScript, PHP, Python, Kotlin, C#, .NET
+🎓 Currently pursuing a degree in Information Technology at Avans University of Applied Sciences, cruising through year 2.
