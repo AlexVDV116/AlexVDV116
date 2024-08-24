@@ -50,10 +50,10 @@ fun main() {
 
 ```
 
-👋 Hello, my name is Alex, a perpetual learner exploring the wonders of technology!
-🎂 I've orbited the sun 33 times and counting.
-💻 My interests include: HTML, CSS, JavaScript, PHP, Python, Kotlin, C#, .NET.
-🌟 My hobbies include: Working out in the gym, Star Wars, Cyber security/hacking.
-🎓 Currently pursuing a degree in Information Technology at Avans University of Applied Sciences, cruising through year 4.
+👋 Hello, my name is Alex, a perpetual learner exploring the wonders of technology!/
+🎂 I've orbited the sun 33 times and counting.\
+💻 My interests include: HTML, CSS, JavaScript, PHP, Python, Kotlin, C#, .NET.\
+🌟 My hobbies include: Working out in the gym, Star Wars, Cyber security/hacking.\
+🎓 Currently pursuing a degree in Information Technology at Avans University of Applied Sciences, cruising through year 4.\
 🌍 Fun fact: I'm always learning something new - the journey never stops!
 
