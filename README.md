@@ -31,7 +31,7 @@ fun main() {
         mutableListOf("Working out in the gym", "Star Wars", "Cyber security/hacking"),
         "Avans University of Applied Sciences",
         "Information Technology",
-        2
+        3
     )
     println(alex.toString())
 }
@@ -42,4 +42,4 @@ fun main() {
 🎂 I've orbited the sun 32 times and counting. \
 💻 My cosmic interests include: HTML, CSS, JavaScript, PHP, Python, Kotlin, C#, .NET \
 🌟 My hobbies include: Working out in the gym, Star Wars, Cyber security/hacking \
-🎓 Currently pursuing a degree in Information Technology at Avans University of Applied Sciences, cruising through year 2.
+🎓 Currently pursuing a degree in Information Technology at Avans University of Applied Sciences, cruising through year 3.
