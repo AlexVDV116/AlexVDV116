@@ -40,7 +40,7 @@ fun main() {
         "Alex",
         1991,
         mutableListOf("HTML", "CSS", "JavaScript", "PHP", "Python", "Kotlin", "C#", ".NET"),
-        mutableListOf("Working out in the gym", "Sciene", "Sci-Fi: Star Wars", "Cyber security/hacking"),
+        mutableListOf("Working out in the gym", "Science", "Sci-Fi: Star Wars", "Cyber security/hacking"),
         "Avans University of Applied Sciences",
         "Information Technology",
         2021
