@@ -1,3 +1,6 @@
+![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexVDV116&show_icons=true&theme=transparent&hide_rank=true)
+
+
 ```Kotlin
 import java.time.LocalDate
 import java.time.Period
